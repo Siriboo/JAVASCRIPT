@@ -1,0 +1,47 @@
+body{
+
+    padding: 0;
+    padding: 0;
+    background: url("../img/descomposition-of-person-wearing-vr-glasses.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+h1, h2, h3, h4, h5{
+    font-family:'Tiro Devanagari Hindi';
+}
+
+button, input, label{
+    font-family: 'Tiro Devanagari Hindi';
+}
+h1{
+    color: #ffffff;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+h2{
+    color: #00ffff;
+    font-size: 35px;
+}
+
+h3{
+    color: #ffebcd;
+    font-size: 28px;
+    margin-bottom: 120px;
+}
+
+button:hover{
+    background: #bcb7af;
+    color: #00ffff;
+    padding: 15px 50px;
+}
+
+button{
+    color:#00ffff;
+    padding: 15px 50px;
+    background-color: #000000;
+    border-color: #ffffff;
+}
